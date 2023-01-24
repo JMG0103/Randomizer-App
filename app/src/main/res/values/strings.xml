@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Actividad1</string>
+    <string name="girar">GIRAR</string>
+    <string name="regresar">REGRESAR</string>
+    <string name="regresarbtn">REGRESAR</string>
+    <string name="girarbtn">GIRAR</string>
+</resources>
